@@ -1,0 +1,33 @@
+body {
+  background-color: #fafafa;
+}
+a {
+  text-decoration: none;
+}
+
+.Post_list {
+  margin-top: 5rem;
+  margin-left: 15rem;
+  max-width: 614px;
+  width: 500%;
+  margin-right: 28px;
+}
+.form_logo{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.btn-signup{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 20px;
+  padding: 5px 15px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.form_field{
+  width: 100%;
+}
