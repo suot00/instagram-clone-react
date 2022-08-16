@@ -1,0 +1,31 @@
+.experience {
+  margin-top: 8em;
+}
+.title-experience {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 7em;
+}
+.title-experience h2 {
+  width: 45%;
+}
+.title-experience span {
+  color: #3730a3;
+}
+.experience-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-left: 10em;
+  margin-right: 5em;
+}
+.experience-list {
+  padding: 20px;
+}
+.experience-item {
+  width: 100%;
+}
+.experience-item span {
+  color: #3730a3;
+}

@@ -1,0 +1,27 @@
+.customer {
+  width: 100%;
+  background-color: #fef2f2;
+  margin-top: 5em;
+}
+.customer-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.customer-name p {
+  margin-left: 15em;
+  margin-top: 5em;
+  margin-bottom: -3em;
+  color: #9ca3af;
+}
+.customer-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 4em;
+}
+.customer-list img {
+  margin: 2em;
+}

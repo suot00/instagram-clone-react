@@ -1,0 +1,21 @@
+.contact {
+}
+.contact-container h2 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.contact-list {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin: 12em;
+}
+.contact-item img {
+  margin: 1em;
+}
+.contact-item-3 {
+  margin: 1em;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}

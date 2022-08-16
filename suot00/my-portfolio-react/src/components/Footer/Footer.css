@@ -1,0 +1,19 @@
+.footer {
+  background-color: #fef2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer-container {
+  margin: 4em;
+}
+.footer-container p {
+  width: 80%;
+  color: #9ca3af;
+  margin: 1em 1em 3em 1emsss;
+  font-size: 1em;
+}
+.footer-social img {
+  margin: 1em;
+}
